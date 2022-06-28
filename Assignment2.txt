@@ -1,0 +1,44 @@
+1.What does the dollar($) sign do?
+
+A dollar sign ($) is the symbol found on the same key as the number four (4) key on United States QWERTY keyboard. 
+The dollar sign is most often used to represent a U.S. currency value, e.g., $10.00 for ten dollars.
+
+
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+Select the cell that contains the formula. In the formula bar, select the reference that you want to change.
+Press F4 to switch between the reference types.
+
+
+3. Explain the order of operations in excel?
+ In general, Excel's order of operation follows the acronym PEMDAS (Parentheses, Exponents, Multiplication, 
+Division, Addition, Subtraction) 
+
+
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntax for any of two?
+The SUM Function.
+The TEXT Function. 
+The VLOOKUP Function. 
+The AVERAGE Function. 
+The CONCATENATE Function.
+
+
+The syntax of the SUM excel function is stated as follows: “SUM(number1,[number2] ,…)” .
+The “number1” and “number2” are the first and second numeric values to be added.
+
+The syntax for the Excel TEXT function is as follows: TEXT(value, format_text) Where: Value - 
+the numeric value to be converted to text. It can be a number, date,reference to a cell containing a numeric value 
+or another function that returns a number or date.
+
+
+
+5. When would you use the subtotal function?
+The SUBTOTAL function is used when we display a Total row in an Excel Table.
+
+
+6. What is the syntax of the vlookup function? Explain the terms in it?
+In its simplest form, the VLOOKUP function says:
+
+=VLOOKUP(What we want to look up, where we want to look for it, the column number in the range containing the 
+value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE).
+
